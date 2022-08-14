@@ -48,7 +48,7 @@ func ConvertRsToRsRes(rs *bean.Relationship, uId uint64) (*bean.RelationshipResp
 		case 3:
 			m["state"]="matched"
 	}
-	if (rs.UIdF == uId){
+	if rs.UIdF == uId  {
 		m["userId"]=rs.UIdT
 	} else {
 		m["userId"]=rs.UIdF
@@ -63,7 +63,7 @@ func ConvertRssToRsRes(rss *[]bean.Relationship, uId uint64)  (*[]bean.Relations
 	rssRes := make([]bean.RelationshipResponse, len(*rss))
 	for i,rs := range *rss {
 		rsC,err := ConvertRsToRsRes(&rs, uId)
-		if (err!=nil){
+		if err!=nil {
 			panic(err)
 		}
 		rssRes[i] = *rsC

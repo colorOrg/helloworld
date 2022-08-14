@@ -5,7 +5,7 @@ import (
 	"github.com/go-pg/pg/v10"
 )
 
-var Db *pg.DB=InitDb();
+var Db *pg.DB=InitDb()
 
 func InitDb() *pg.DB {
 	Db := pg.Connect(&pg.Options{

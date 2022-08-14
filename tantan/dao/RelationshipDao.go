@@ -16,7 +16,7 @@ func GetRelationshipByUId(db *pg.DB, uId uint64) ([]bean.Relationship, error){
 func GetRelationshipByDirect(db *pg.DB, uIdF uint64, uIdT uint64, t uint8) ([]bean.Relationship, error){
 	var rs []bean.Relationship
 	var err error
-	if (t==1) {
+	if t==1 {
 		err = db.Model(&rs).Where("u_id_f = ?", uIdF).Where("u_id_t = ?", uIdT).Select()
 	} else {
 		err = db.Model(&rs).WhereOrGroup(func(q *orm.Query) (query *orm.Query, err error) {
