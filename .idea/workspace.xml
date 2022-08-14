@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ee0968f-15bb-4815-ac38-feefe19e637f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/sdk/go1.13.9" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="2AHfyuTaBXyiO8y1i4luiv2cXki" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tantan/db" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tantan/dao/fun" />
+      <recent name="$PROJECT_DIR$/tantan/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestConvertUser in hello/tantan/test">
+    <configuration name="go build hello" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
+      <working_directory value="$PROJECT_DIR$" />
+      <useCustomBuildTags value="true" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="hello" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build hello" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="hello" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test1 in hello/tantan/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
+      <working_directory value="$PROJECT_DIR$/tantan/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="hello/tantan/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test1$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestAddRs in hello/tantan/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
+      <working_directory value="$PROJECT_DIR$/tantan/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="hello/tantan/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestAddRs$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestConvertUser in hello/tantan/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
+      <working_directory value="$PROJECT_DIR$/tantan/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="hello/tantan/test" />
+      <pattern value="^TestConvertUser$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestConvertUser3 in hello/tantan/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
+      <working_directory value="$PROJECT_DIR$/tantan/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="hello/tantan/test" />
+      <pattern value="^TestConvertUser3$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build hello" />
+      <item itemvalue="Go Test.Test1 in hello/tantan/test" />
+      <item itemvalue="Go Test.TestAddRs in hello/tantan/test" />
+      <item itemvalue="Go Test.TestConvertUser in hello/tantan/test" />
+      <item itemvalue="Go Test.TestConvertUser3 in hello/tantan/test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestConvertUser in hello/tantan/test" />
+        <item itemvalue="Go Test.Test1 in hello/tantan/test" />
+        <item itemvalue="Go Test.TestAddRs in hello/tantan/test" />
+        <item itemvalue="Go Build.go build hello" />
+        <item itemvalue="Go Test.TestConvertUser3 in hello/tantan/test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1685" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655098914694">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1685" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1655098914694" />
+    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.809@0.25.1440.809" timestamp="1654682568422" />
+    <state x="427" y="82" key="#go_build_test.go" timestamp="1654835258608">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="82" key="#go_build_test.go/0.0.1440.900@0.0.1440.900" timestamp="1654835258608" />
+    <state width="1398" height="399" key="GridCell.Tab.0.bottom" timestamp="1658990533632">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="399" key="GridCell.Tab.0.bottom/0.0.1440.834/1440.25.1920.1055@1440.25.1920.1055" timestamp="1656566353201" />
+    <state width="1398" height="399" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1658990533632" />
+    <state width="1878" height="399" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1656566352870" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1654859170630" />
+    <state width="1398" height="323" key="GridCell.Tab.0.bottom/0.25.1440.809@0.25.1440.809" timestamp="1654856965683" />
+    <state width="1398" height="387" key="GridCell.Tab.0.bottom/0.25.1440.813@0.25.1440.813" timestamp="1654828720652" />
+    <state width="1358" height="331" key="GridCell.Tab.0.bottom/0.25.1440.814@0.25.1440.814" timestamp="1654753268211" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom/0.25.1440.815/1440.25.1920.1055@1440.25.1920.1055" timestamp="1656553923014" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.25.1440.815@0.25.1440.815" timestamp="1654742445245" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.0.1920.1080@1440.0.1920.1080" timestamp="1656496723058" />
+    <state width="1398" height="399" key="GridCell.Tab.0.center" timestamp="1658990533630">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="399" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1658990533630" />
+    <state width="1878" height="399" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1656566353101" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1654859170629" />
+    <state width="1398" height="323" key="GridCell.Tab.0.center/0.25.1440.809@0.25.1440.809" timestamp="1654856965682" />
+    <state width="1398" height="387" key="GridCell.Tab.0.center/0.25.1440.813@0.25.1440.813" timestamp="1654828720650" />
+    <state width="1358" height="331" key="GridCell.Tab.0.center/0.25.1440.814@0.25.1440.814" timestamp="1654753268210" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center/0.25.1440.815/1440.25.1920.1055@1440.25.1920.1055" timestamp="1656553923010" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.25.1440.815@0.25.1440.815" timestamp="1654742445244" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center/0.25.1440.875/1440.0.1920.1080@1440.0.1920.1080" timestamp="1656496723055" />
+    <state width="1398" height="399" key="GridCell.Tab.0.left" timestamp="1658990533628">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="399" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1658990533628" />
+    <state width="1878" height="399" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1656566353098" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1654859170628" />
+    <state width="1398" height="323" key="GridCell.Tab.0.left/0.25.1440.809@0.25.1440.809" timestamp="1654856965681" />
+    <state width="1398" height="387" key="GridCell.Tab.0.left/0.25.1440.813@0.25.1440.813" timestamp="1654828720650" />
+    <state width="1358" height="331" key="GridCell.Tab.0.left/0.25.1440.814@0.25.1440.814" timestamp="1654753268210" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left/0.25.1440.815/1440.25.1920.1055@1440.25.1920.1055" timestamp="1656553923009" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.25.1440.815@0.25.1440.815" timestamp="1654742445244" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left/0.25.1440.875/1440.0.1920.1080@1440.0.1920.1080" timestamp="1656496723054" />
+    <state width="1398" height="399" key="GridCell.Tab.0.right" timestamp="1658990533631">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="399" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1658990533631" />
+    <state width="1878" height="399" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1656566352868" />
+    <state width="1878" height="399" key="GridCell.Tab.0.right/0.0.1440.900/1440.25.1920.1055@1440.25.1920.1055" timestamp="1656566353199" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1654859170629" />
+    <state width="1398" height="323" key="GridCell.Tab.0.right/0.25.1440.809@0.25.1440.809" timestamp="1654856965683" />
+    <state width="1398" height="387" key="GridCell.Tab.0.right/0.25.1440.813@0.25.1440.813" timestamp="1654828720651" />
+    <state width="1358" height="331" key="GridCell.Tab.0.right/0.25.1440.814@0.25.1440.814" timestamp="1654753268211" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right/0.25.1440.815/1440.25.1920.1055@1440.25.1920.1055" timestamp="1656553923013" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.25.1440.815@0.25.1440.815" timestamp="1654742445245" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right/0.25.1440.875/1440.0.1920.1080@1440.0.1920.1080" timestamp="1656496723056" />
+    <state width="1398" height="399" key="GridCell.Tab.1.bottom" timestamp="1658990534328">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="399" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1658990534328" />
+    <state width="1878" height="399" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1656566352885" />
+    <state width="1398" height="323" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1654857550418" />
+    <state width="1398" height="323" key="GridCell.Tab.1.bottom/0.25.1440.809@0.25.1440.809" timestamp="1654857513780" />
+    <state width="1398" height="387" key="GridCell.Tab.1.bottom/0.25.1440.813@0.25.1440.813" timestamp="1654828844605" />
+    <state width="1398" height="387" key="GridCell.Tab.1.bottom/0.25.1440.814@0.25.1440.814" timestamp="1654777608621" />
+    <state width="1878" height="399" key="GridCell.Tab.1.bottom/0.25.1440.815/1440.25.1920.1055@1440.25.1920.1055" timestamp="1656553922998" />
+    <state width="1398" height="399" key="GridCell.Tab.1.center" timestamp="1658990534327">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="399" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1658990534327" />
+    <state width="1878" height="399" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1656566352882" />
+    <state width="1398" height="323" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1654857550417" />
+    <state width="1398" height="323" key="GridCell.Tab.1.center/0.25.1440.809@0.25.1440.809" timestamp="1654857513779" />
+    <state width="1398" height="387" key="GridCell.Tab.1.center/0.25.1440.813@0.25.1440.813" timestamp="1654828844604" />
+    <state width="1398" height="387" key="GridCell.Tab.1.center/0.25.1440.814@0.25.1440.814" timestamp="1654777608621" />
+    <state width="1878" height="399" key="GridCell.Tab.1.center/0.25.1440.815/1440.25.1920.1055@1440.25.1920.1055" timestamp="1656553922996" />
+    <state width="1398" height="399" key="GridCell.Tab.1.left" timestamp="1658990534326">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="399" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1658990534326" />
+    <state width="1878" height="399" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1656566352871" />
+    <state width="1398" height="323" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1654857550416" />
+    <state width="1398" height="323" key="GridCell.Tab.1.left/0.25.1440.809@0.25.1440.809" timestamp="1654857513778" />
+    <state width="1398" height="387" key="GridCell.Tab.1.left/0.25.1440.813@0.25.1440.813" timestamp="1654828844603" />
+    <state width="1398" height="387" key="GridCell.Tab.1.left/0.25.1440.814@0.25.1440.814" timestamp="1654777608620" />
+    <state width="1878" height="399" key="GridCell.Tab.1.left/0.25.1440.815/1440.25.1920.1055@1440.25.1920.1055" timestamp="1656553922995" />
+    <state width="1398" height="399" key="GridCell.Tab.1.right" timestamp="1658990534327">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="399" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1658990534327" />
+    <state width="1878" height="399" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1656566352883" />
+    <state width="1398" height="323" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1654857550417" />
+    <state width="1398" height="323" key="GridCell.Tab.1.right/0.25.1440.809@0.25.1440.809" timestamp="1654857513779" />
+    <state width="1398" height="387" key="GridCell.Tab.1.right/0.25.1440.813@0.25.1440.813" timestamp="1654828844605" />
+    <state width="1398" height="387" key="GridCell.Tab.1.right/0.25.1440.814@0.25.1440.814" timestamp="1654777608621" />
+    <state width="1878" height="399" key="GridCell.Tab.1.right/0.25.1440.815/1440.25.1920.1055@1440.25.1920.1055" timestamp="1656553922997" />
+    <state x="1909" y="176" key="SettingsEditor" timestamp="1655086384583">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1909" y="176" key="SettingsEditor/0.25.1440.875/1440.0.1920.1080@1440.0.1920.1080" timestamp="1655086384583" />
+    <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1654853486209">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1654853486209" />
+    <state x="383" y="103" width="675" height="668" key="find.popup" timestamp="1659607577040">
+      <screen x="0" y="25" width="1440" height="824" />
+    </state>
+    <state x="1951" y="102" width="899" height="875" key="find.popup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1655101807950" />
+    <state x="383" y="85" width="674" height="729" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1654839226125" />
+    <state x="383" y="103" width="675" height="668" key="find.popup/0.25.1440.824@0.25.1440.824" timestamp="1659607577040" />
+    <state x="385" y="153" width="670" height="747" key="search.everywhere.popup" timestamp="1654846995728">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="153" width="670" height="747" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1654846995728" />
+    <state x="385" y="164" width="670" height="676" key="search.everywhere.popup/0.25.1440.815@0.25.1440.815" timestamp="1654686296914" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>13</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tantan/controller/UserController.go</url>
+          <line>32</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tantan/dao/UserDao.go</url>
+          <line>16</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tantan/dao/UserDao.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tantan/service/UserService.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tantan/convert/Convert.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tantan/test/relationship_test.go</url>
+          <line>46</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tantan/test/relationship_test.go</url>
+          <line>50</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tantan/test/relationship_test.go</url>
+          <line>18</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tantan/test/relationship_test.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tantan/test/relationship_test.go</url>
+          <line>12</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tantan/service/RelationshipService.go</url>
+          <line>9</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tantan/service/RelationshipService.go</url>
+          <line>40</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tantan/test/user_test.go</url>
+          <line>64</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tantan/test/user_test.go</url>
+          <line>39</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tantan/test/user_test.go</url>
+          <line>35</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
