@@ -6,6 +6,9 @@ import (
 	"hello/tantan/bean"
 )
 
+
+
+
 func GetUsers(db *pg.DB) ([]bean.User, error){
 	var users []bean.User
 	err:=db.Model(&users).Select()

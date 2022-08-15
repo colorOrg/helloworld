@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ee0968f-15bb-4815-ac38-feefe19e637f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/github.com/go-pg/pg/v10/.golangci.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/github.com/go-pg/pg/v10/.prettierrc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/github.com/go-pg/pg/v10/CHANGELOG.md" beforeDir="false" />
