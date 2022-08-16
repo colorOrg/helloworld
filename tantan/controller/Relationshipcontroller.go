@@ -29,6 +29,7 @@ func GetRelationship(w http.ResponseWriter, r *http.Request) {
 	msg, _ := json.Marshal(rs)
 	res := bean.Response{200, "", string(msg)}
 	fmt.Fprint(w, res)
+	fmt.Fprint(w, res)
 }
 
 
